@@ -129,7 +129,7 @@ function Test(){
         let count = 0;
         for (let i =0; i< tf.length; i++)
         {
-            if(tf[i] == 'T'){
+            if(tf[i] === 'T'){
                 count += 1;
             }
         }
