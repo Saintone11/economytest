@@ -164,7 +164,7 @@ function Test(){
                 )}
                 {fin &&(
                     <div className="loading">
-                        <img src={loading} />
+                        <img src={loading} alt = "test" />
                         <div className ="load">로딩 중.....</div>
                     </div>
                 )}
