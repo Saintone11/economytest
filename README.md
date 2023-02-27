@@ -1,6 +1,7 @@
+연습용
 https://earnest-sunflower-1ded74.netlify.app/
 ![image](https://user-images.githubusercontent.com/103628890/221682687-5b6a3f22-3fb8-4346-96f9-578eacea3b15.png)
-
+구현 : 리액트
 
 # Getting Started with Create React App
 
